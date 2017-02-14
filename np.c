@@ -2,6 +2,10 @@
 #include <stdlib.h>
 
 #include "funcs.h"
+void b(void)
+{
+    printf("muehe\n");
+}
 void a(void)
 {
     printf("hahaahahahah\n");
